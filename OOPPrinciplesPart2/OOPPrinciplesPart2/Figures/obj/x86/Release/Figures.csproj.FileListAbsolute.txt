@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Figures\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Figures\bin\Release\Figures.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Figures\bin\Release\Figures.pdb
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Figures\obj\x86\Release\Figures.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Figures\obj\x86\Release\Figures.pdb

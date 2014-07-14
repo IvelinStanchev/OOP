@@ -1,0 +1,15 @@
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\AcademyRPG\AcademyRPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\Role-Play Game API\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\Role-Play Game API\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\Role-Play Game API\AcademyRPG\AcademyRPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\Role-Play Game API\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\Role-Play Game API\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb

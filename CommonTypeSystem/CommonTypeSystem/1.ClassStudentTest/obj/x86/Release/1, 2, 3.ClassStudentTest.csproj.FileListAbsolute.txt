@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\obj\x86\Release\1.ClassStudentTest.exe
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\obj\x86\Release\1.ClassStudentTest.pdb
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\bin\Release\1.ClassStudentTest.exe
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\bin\Release\1.ClassStudentTest.pdb
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\obj\x86\Release\ResolveAssemblyReference.cache

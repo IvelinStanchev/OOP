@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\ClassTimer\bin\Release\ClassTimer.exe
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\ClassTimer\bin\Release\ClassTimer.pdb
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\ClassTimer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\ClassTimer\obj\x86\Release\ClassTimer.exe
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\ClassTimer\obj\x86\Release\ClassTimer.pdb

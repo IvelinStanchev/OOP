@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Matrix\bin\Release\Matrix.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Matrix\bin\Release\Matrix.pdb
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Matrix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Matrix\obj\x86\Release\Matrix.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Matrix\obj\x86\Release\Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\EcosystemSimulationAPI\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.exe.config
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\EcosystemSimulationAPI\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\EcosystemSimulationAPI\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\EcosystemSimulationAPI\AcademyEcosystem-Skeleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\EcosystemSimulationAPI\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\EcosystemSimulationAPI\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.pdb

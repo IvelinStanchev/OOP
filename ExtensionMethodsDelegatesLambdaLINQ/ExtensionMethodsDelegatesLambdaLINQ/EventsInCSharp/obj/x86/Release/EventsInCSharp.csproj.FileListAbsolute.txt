@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\EventsInCSharp\bin\Release\EventsInCSharp.exe
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\EventsInCSharp\bin\Release\EventsInCSharp.pdb
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\EventsInCSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\EventsInCSharp\obj\x86\Release\EventsInCSharp.exe
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\EventsInCSharp\obj\x86\Release\EventsInCSharp.pdb

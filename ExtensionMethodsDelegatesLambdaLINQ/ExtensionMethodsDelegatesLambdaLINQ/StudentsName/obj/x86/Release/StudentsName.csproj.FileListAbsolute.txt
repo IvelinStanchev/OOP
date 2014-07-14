@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\StudentsName\bin\Release\StudentsName.exe
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\StudentsName\bin\Release\StudentsName.pdb
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\StudentsName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\StudentsName\obj\x86\Release\StudentsName.exe
+C:\Downloads\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\StudentsName\obj\x86\Release\StudentsName.pdb

@@ -1,0 +1,6 @@
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\HTMLRenderer\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.exe.config
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\HTMLRenderer\HTMLRenderer-Skeleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\HTMLRenderer\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\HTMLRenderer\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\HTMLRenderer\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\HTMLRenderer\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.pdb

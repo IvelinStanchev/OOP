@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\ExerciseAnimals\bin\Release\ExerciseAnimals.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\ExerciseAnimals\bin\Release\ExerciseAnimals.pdb
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\ExerciseAnimals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\ExerciseAnimals\obj\x86\Release\ExerciseAnimals.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\ExerciseAnimals\obj\x86\Release\ExerciseAnimals.pdb

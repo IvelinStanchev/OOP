@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Attribute\bin\Release\Attribute.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Attribute\bin\Release\Attribute.pdb
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Attribute\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Attribute\obj\x86\Release\Attribute.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\Attribute\obj\x86\Release\Attribute.pdb

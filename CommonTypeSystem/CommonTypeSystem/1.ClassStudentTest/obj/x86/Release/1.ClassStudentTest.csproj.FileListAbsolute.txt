@@ -1,0 +1,10 @@
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.ClassStudentTest\bin\Release\1.ClassStudentTest.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.ClassStudentTest\bin\Release\1.ClassStudentTest.pdb
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.ClassStudentTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.ClassStudentTest\obj\x86\Release\1.ClassStudentTest.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.ClassStudentTest\obj\x86\Release\1.ClassStudentTest.pdb
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\obj\x86\Release\1.ClassStudentTest.exe
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\obj\x86\Release\1.ClassStudentTest.pdb
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\bin\Release\1.ClassStudentTest.exe
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\bin\Release\1.ClassStudentTest.pdb
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\1.ClassStudentTest\obj\x86\Release\ResolveAssemblyReference.cache

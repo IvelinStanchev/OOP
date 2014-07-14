@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\StudentsAndWorkers\bin\Release\StudentsAndWorkers.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\StudentsAndWorkers\bin\Release\StudentsAndWorkers.pdb
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\StudentsAndWorkers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\StudentsAndWorkers\obj\x86\Release\StudentsAndWorkers.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart1\OOPPrinciplesPart1\StudentsAndWorkers\obj\x86\Release\StudentsAndWorkers.pdb

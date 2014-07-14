@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\InvalidRangeException\bin\Release\InvalidRangeException.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\InvalidRangeException\bin\Release\InvalidRangeException.pdb
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\InvalidRangeException\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\InvalidRangeException\obj\x86\Release\InvalidRangeException.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\InvalidRangeException\obj\x86\Release\InvalidRangeException.pdb

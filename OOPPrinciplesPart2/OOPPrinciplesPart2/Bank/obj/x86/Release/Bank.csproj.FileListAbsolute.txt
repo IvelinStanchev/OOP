@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Bank\bin\Release\Bank.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Bank\bin\Release\Bank.pdb
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Bank\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Bank\obj\x86\Release\Bank.exe
+C:\Downloads\Telerik\Homework\OOP\OOPPrinciplesPart2\OOPPrinciplesPart2\Bank\obj\x86\Release\Bank.pdb

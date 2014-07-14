@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart1\Phone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart1\Phone\bin\Debug\Phone.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart1\Phone\bin\Debug\Phone.pdb
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart1\Phone\obj\x86\Debug\Phone.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart1\Phone\obj\x86\Debug\Phone.pdb

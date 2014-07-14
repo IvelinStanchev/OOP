@@ -1,0 +1,6 @@
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\SoftwareAcademy\bin\Debug\SoftwareAcademy.exe.config
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\SoftwareAcademy\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\SoftwareAcademy\bin\Debug\SoftwareAcademy.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\SoftwareAcademy\bin\Debug\SoftwareAcademy.pdb
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\SoftwareAcademy\obj\Debug\SoftwareAcademy.exe
+C:\Downloads\Telerik\Homework\OOP\ExamPreparation\SoftwareAcademy\obj\Debug\SoftwareAcademy.pdb

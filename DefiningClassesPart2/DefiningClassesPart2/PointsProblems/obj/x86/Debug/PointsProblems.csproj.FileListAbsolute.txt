@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\PointsProblems\bin\Debug\PointsProblems.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\PointsProblems\bin\Debug\PointsProblems.pdb
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\PointsProblems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\PointsProblems\obj\x86\Debug\PointsProblems.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\PointsProblems\obj\x86\Debug\PointsProblems.pdb

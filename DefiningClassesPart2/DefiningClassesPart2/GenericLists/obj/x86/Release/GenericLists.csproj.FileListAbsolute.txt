@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\GenericLists\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\GenericLists\bin\Release\GenericLists.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\GenericLists\bin\Release\GenericLists.pdb
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\GenericLists\obj\x86\Release\GenericLists.exe
+C:\Downloads\Telerik\Homework\OOP\DefiningClassesPart2\DefiningClassesPart2\GenericLists\obj\x86\Release\GenericLists.pdb

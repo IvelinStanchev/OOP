@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\5.BitArray\bin\Release\5.BitArray.exe
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\5.BitArray\bin\Release\5.BitArray.pdb
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\5.BitArray\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\5.BitArray\obj\x86\Release\5.BitArray.exe
+C:\Downloads\Telerik\Homework\OOP\CommonTypeSystem\CommonTypeSystem\5.BitArray\obj\x86\Release\5.BitArray.pdb
